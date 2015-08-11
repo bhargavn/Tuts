@@ -6,7 +6,7 @@ public class LargestPalindrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String s ="abcccbs";
+		String s ="malayalam";
 		HashMap<String, Integer>h=new HashMap<String,Integer>();
 		int i=findPal(s,h);
 System.out.println(i);
